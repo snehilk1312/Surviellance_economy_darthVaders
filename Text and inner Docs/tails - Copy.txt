@@ -1,0 +1,15 @@
+Tails or The Amnesic Incognito Live System is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.[6] All its incoming and outgoing connections are forced to go through Tor,[7] and any and all non-anonymous connections are blocked. The system is designed to be booted as a live DVD or live USB, and will leave no digital footprint on the machine unless explicitly told to do so. The Tor Project has provided financial support for its development
+Networking
+
+    Tor with: Stream isolation, regular, obfs2, obfs3, obfs4, and ScrambleSuit bridges support.
+    NetworkManager for easy network configuration
+    Tor Browser, a web browser based on Mozilla Firefox and modified to protect anonymity with:
+        Torbutton for anonymity and protection against JavaScript with all cookies treated as session cookies by default;
+        HTTPS Everywhere transparently enables SSL-encrypted connections to a great number of major websites
+        NoScript to have even more control over JavaScript
+        uBlock Origin to remove advertisements.
+    Pidgin preconfigured with OTR for end-to-end encrypted instant messaging
+    Thunderbird email client with Enigmail for OpenPGP support
+    Liferea feed aggregator
+    Aircrack-ng for Wi-Fi networks auditing
+    Electrum, an easy-to-use bitcoin client

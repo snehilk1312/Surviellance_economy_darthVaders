@@ -1,0 +1,16 @@
+Reasons not to use LinkedIn
+
+    LinkedIn is trying to have people imprisoned for scraping its site.
+    LinkedIn requires you to use non-free Javascript to access the site.
+    LinkedIn implements censorship on behalf of the repressive Chinese state.
+    LinkedIn makes it "near impossible" to sign up without giving the company your address book.
+
+    Perhaps this is effective only for users of the most common email services, but that doesn't make it any less nasty.
+
+    LinkedIn claims to own every user's profile, and puts self-serving restrictions on what information users can put in the profile. Not to mention the dangerous indemnity requirement.
+
+    Ignore the weak ending that advises people not to stand on principle. We can strengthen others, and strengthen principle, by encouraging them to take a stand on principle (and setting examples ourselves).
+
+    A paying customer of LinkedIn closed his account, feeling that LinkedIn had started cheating him by eliminating the features he wanted to pay for. Then LinkedIn refused to delete his account immediately.
+
+    One of the features he resented losing, being informed of what users said when referring others to his account, seems like an injustice to me. But his overall conclusion — that we must manage our own digital identities, not entrust that to some company — is right.

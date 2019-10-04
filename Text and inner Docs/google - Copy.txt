@@ -1,0 +1,22 @@
+Reasons not to use Google
+
+Nonfree software required
+
+
+    Facebook and Google joined with ISPs to defeat a privacy initiative in California.
+
+    Collecting the many ways Google is involved with US government surveillance, abroad and in the US, amounts to quite a package.
+    Google invites people to let Google monitor their phone use, and all internet use in their homes, for an extravagant payment of $20.
+
+    This is not a malicious functionality of a program with some other purpose; this is the software's sole purpose, and Google says so. But Google says it in a way that encourages most people to ignore the details and remain unaware of the extent of the spying. Anyway, mere consent does not legitimize massive surveillance.
+
+    Amazon and Google want "smart" gadgets to report all activity to them.
+
+    In other words, if you have a "smart" (read "spy") lightbulb with that proposed feature, and tell an Amazon or Google listening device about it, thenceforth any time you switched it on or off no matter how, it would send a report to Amazon or Google.
+
+    Even today, the only way to make "smart" products safe is to ensure they cannot connect to anyone else's systems.
+
+    Another piece of Google's surveillance capitalism: when stores mail receipts to a gmail.com account, Google figures out and records who bought what.
+
+    I think that the store itself should not get this information, which is why I always pay cash and never give my name.
+

@@ -1,0 +1,13 @@
+Reasons not to use the Discord communications system
+
+    The Discord communications system requires running a nonfree client program. That alone is reason to refuse to use it.
+
+    The program reportedly collects lots of data about users.
+    The developer denies the claim that Discord reports which processes are running on the user's machine. I have no way of determining the facts about this specific point. Whether it collects those particular data is a minor detail; I mention it only to avoid appearing to assert a criticism that might not be true.
+
+    For the same reason, I mention that selling personal data is not the sole way that the company makes money.
+    I don't think that question how it makes money really matters. What matters, ethically, is what the software does to users. The developers' motives for making it do those things are pertinent to understanding the situation but should not affect our moral judgment of mistreatment of users.
+
+    I would appreciate suggestions of other pages to use as factual references for specific wrongs committed by Discord, or to correct on a trustworthy basis any false accusations in the page linked to above.
+
+The Discord web site also offers application nonfree programs. You shouldn't use them, naturally, but they are a separate issue from using the communications system itself. 
